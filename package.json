@@ -1,0 +1,23 @@
+{
+  "name": "knowledge_doc",
+  "version": "1.0.0",
+  "description": "学习知识文档",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterLQi/knowledge_doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasterLQi/knowledge_doc/issues"
+  },
+  "homepage": "https://github.com/MasterLQi/knowledge_doc#readme"
+}
